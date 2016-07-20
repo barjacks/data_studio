@@ -6,3 +6,8 @@ my projects on github for data studio class
 - Basic manipulation of the images
 - Selection, Object, clipping mask, color change of all "same" objects
 - Using [Adobe Colour Wheel](https://color.adobe.com/create/color-wheel/)
+
+## 02 Refining Matplotlib graphs
+- Removing grid
+- Grouping and colouring
+- xticks, yticks
