@@ -15,4 +15,7 @@ change. I used the link provided by Soma [here](http://jonathansoma.com/lede/dat
 And combined it with [this](http://stackoverflow.com/questions/21321670/how-to-change-fonts-in-matplotlib-python).
 
 - I removed ticks. Wanted the grid however. But that is not visible on the PDF f
-or some reason. 
+or some reason.
+
+- I can adopt font styles in Pandas. But only for the texts I add. Not for the columns names, or labels. How can
+I do this?
