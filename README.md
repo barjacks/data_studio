@@ -11,3 +11,8 @@ my projects on github for data studio class
 - Removing grid
 - Grouping and colouring
 - xticks, yticks
+
+## 03 Developing MyGraph
+
+## 05.1 Layers and Groups in Illu
+## 05.2 Small Multiples
